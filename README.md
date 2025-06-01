@@ -2,7 +2,7 @@
 
 I'm a researcher/engineer/developer (choose what fits you best) working primarily with **C++** and **Python**, focused on:
 
-- 🧵 **Parallel Programming** & **High Performance Computing (HPC)**
+- ⚡️ **Parallel Programming** & **High Performance Computing (HPC)**
 - 🌬️ **Computational Mechanics**: CFD, FEM, FSI
 - ⚙️ Low-level optimization, numerical methods, and scientific computing
 
