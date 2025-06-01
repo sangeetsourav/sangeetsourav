@@ -33,7 +33,7 @@ I'm passionate about solving real-world physics problems through scalable numeri
 ## 📫 Let's Connect
 
 - 🧾 [LinkedIn](https://www.linkedin.com/in/sangeet-sunderroy/)
-- ✉️ [your.email@example.com](mailto:sangeetsourav@gmail.com)
+- ✉️ [sangeetsourav@gmail.com](mailto:sangeetsourav@gmail.com)
 
 ---
 
