@@ -28,7 +28,7 @@ I'm passionate about solving real-world physics problems through scalable numeri
 
 ## 📂 Notable Repositories
 
-- 🧪 `Multithreaded-NIFTY50-Tracker` — Multithreaded Python application to track NIFTY50
+- 🧪 [Multithreaded-NIFTY50-Tracker](https://github.com/sangeetsourav/Multithreaded-NIFTY50-Tracker/tree/main) — Multithreaded Python application to track NIFTY50
 
 ## 📫 Let's Connect
 
