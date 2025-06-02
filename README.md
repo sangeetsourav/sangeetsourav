@@ -29,6 +29,7 @@ I'm passionate about solving real-world physics problems through scalable numeri
 ## 📂 Notable Repositories
 
 - 🧪 [Multithreaded-NIFTY50-Tracker](https://github.com/sangeetsourav/Multithreaded-NIFTY50-Tracker/tree/main) — Multithreaded Python application to track NIFTY50
+- 📟 [codecrafters-shell-cpp](https://github.com/sangeetsourav/codecrafters-shell-cpp) - POSIX compliant shell built from scratch in C++
 
 ## 📫 Let's Connect
 
