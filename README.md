@@ -10,7 +10,7 @@ I'm a researcher/engineer/developer (choose what fits you best) working primaril
 
 - **Languages**: C++, Python, SQL, Bash
 - **Parallelism**: OpenMP, MPI, CUDA
-- **Tools & Frameworks**: PETSc, Eigen, SU2, OpenFOAM, Calculix
+- **Tools & Frameworks**: SU2, OpenFOAM, Calculix, PyQt/PySide
 - **Build Systems**: CMake, Make
 - **Environments**: Linux, HPC clusters
 
@@ -18,6 +18,7 @@ I'm a researcher/engineer/developer (choose what fits you best) working primaril
 
 I'm passionate about solving real-world physics problems through scalable numerical simulations. Some areas I often explore:
 
+- ➰ Splines (Bézier, Catmull-Rom, B-Splines)
 - 🌀 Fluid-Structure Interaction (FSI)
 - 🧱 Finite Element Method (FEM)
 - 🌊 Computational Fluid Dynamics (CFD)
