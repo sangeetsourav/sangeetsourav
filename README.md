@@ -10,7 +10,8 @@ I'm a researcher/engineer/developer (choose what fits you best) working primaril
 
 - **Languages**: C++, Python, SQL, Bash
 - **Parallelism**: OpenMP, MPI, CUDA
-- **Tools & Frameworks**: SU2, OpenFOAM, Calculix, PyQt/PySide
+- **GUI**: PyQt6, PyQtGraph
+- **Tools & Frameworks**: SU2, OpenFOAM, Calculix
 - **Build Systems**: CMake, Make
 - **Environments**: Linux, HPC clusters
 
