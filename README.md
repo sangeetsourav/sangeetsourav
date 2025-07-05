@@ -9,7 +9,7 @@ I'm a researcher/engineer/developer (choose what fits you best) working primaril
 ## 🔧 Tech Stack & Tools
 
 - **Languages**: C++, Python, SQL, Bash
-- **Parallelism**: OpenMP, MPI, CUDA
+- **Parallelism**: CUDA, OpenMP, MPI
 - **GUI**: PyQt6, PyQtGraph
 - **Tools & Frameworks**: SU2, OpenFOAM, Calculix
 - **Build Systems**: CMake, Make
