@@ -32,6 +32,7 @@ I'm passionate about solving real-world physics problems through scalable numeri
 
 - 🧪 [Multithreaded-NIFTY50-Tracker](https://github.com/sangeetsourav/Multithreaded-NIFTY50-Tracker/tree/main) — Multithreaded Python application to track NIFTY50
 - 📟 [codecrafters-shell-cpp](https://github.com/sangeetsourav/codecrafters-shell-cpp) - POSIX compliant shell built from scratch in C++ (Work in progress)
+- 🧮 [learning_cuda](https://github.com/sangeetsourav/learning_cuda) - My journey in learning CUDA
 
 ## 📫 Let's Connect
 
